@@ -3,7 +3,7 @@
 <p align="center">
 🎓 Computer Science student (4th semester) <br>
 💻 Currently learning C# and exploring the .NET ecosystem <br>
-🔒 Interested in software development, cybersecurity, and games
+🔭 Interested in software development, cybersecurity, and games
 </p>
 
 <p align="center">
